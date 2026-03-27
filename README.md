@@ -1,26 +1,26 @@
 ### CONTRIBUTING.md
 
-**Хочешь помочь проекту? Сначала прочитай правила, додоик.**
+**Want to help the project? Read the rules first, dodoik.**
 
-### Как НЕ надо помогать:
-1. **Не предлагай «просто выйти на улицу»:** У меня аллергия на солнечный свет и нпс-кунов. Этот баг не фиксится, это кор-механика.
-2. **Не кидай вакансии:** Мой `job_resume.pdf` зашифрован вирусом «Лень-2026», дешифратор стоит 100 банок монстра.
-3. **Не спрашивай «как дела»:** Ответ всегда `Segmentation Fault (core dumped)`.
+### How NOT to help:
+1. **Don't suggest "just going outside":** I'm allergic to sunlight and NPC-kuns. This bug won't be fixed; it's a core mechanic.
+2. **Don't send job offers:** My `job_resume.pdf` is encrypted by the "Laziness-2026" virus. The decryptor costs 100 cans of Monster.
+3. **Don't ask "how are you":** The answer is always `Segmentation Fault (core dumped)`.
 
-### Как МОЖНО помочь:
-* **Pull Request:** Принимаются только фиксы моего калла.
-* **Issue:** Если нашел способ брить ноги быстрее и без порезов — создавай тикет, это критический функционал.
-* **Donations:** Принимаются только в виде промокодов на доставку еды (чтобы не ходить за хлебом) или ссылок на годное аниме.
+### How you CAN help:
+* **Pull Request:** Only fixes for my shitty code are accepted.
+* **Issue:** If you found a way to shave legs faster and without cuts — open a ticket, this is critical functionality.
+* **Donations:** Only food delivery promo codes (so I don't have to go for bread) or links to top-tier anime are accepted.
 
-### Порядок действий:
-1. Форкаешь мою депрессию.
-2. Понимаешь, что не вывозишь.
-3. Удаляешь репозиторий.
-4. Уходишь в инвиз.
+### Workflow:
+1. Fork my depression.
+2. Realize you can't handle it.
+3. Delete the repository.
+4. Go invisible.
 
 ---
-**Warning:** Любые попытки социализации автора караются мгновенным `PanicAttackException`. 
+**Warning:** Any attempts at socialization will be met with an immediate `PanicAttackException`. 
 
-> "Я тут догниваю с комфортом, не мешайте процессу." — **FlexEbat**
+> "I'm rotting here in comfort, don't interrupt the process." — **FlexEbat**
 
 ---
